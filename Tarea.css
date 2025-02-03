@@ -1,0 +1,11 @@
+body{
+    background: rgb(255,187,104);
+    background: radial-gradient(circle, rgba(255,187,104,1) 57%, rgba(247,181,9,1) 78%);
+}
+p, ul {
+   font-family:  sans-serif;
+   color: #359aff;
+}
+h1,h2,h3{
+  color:#359aff;
+}
